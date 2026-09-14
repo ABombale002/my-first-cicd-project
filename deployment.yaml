@@ -4,6 +4,7 @@ kind: Deployment
 
 metadata:
   name: flask-deployment
+  namespace: cicd
 
 spec:
 
